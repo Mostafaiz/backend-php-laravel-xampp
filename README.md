@@ -10,7 +10,9 @@
 
 5- dastor zir dar powershel
 
+```
 composer diagnose 
+```
 
 agar :zip: extension not found, unzip not available, 7-Zip not available
 
@@ -21,3 +23,6 @@ Find "zip"
 Remove the semicolon and save the file
 Restart your XAMPP Apache
 
+```
+php -v
+```
