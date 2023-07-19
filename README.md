@@ -26,3 +26,15 @@ Restart your XAMPP Apache
 ```
 php -v
 ```
+
+
+
+php artisan db:seed
+
+
+
+ php artisan migrate
+
+
+
+ 
